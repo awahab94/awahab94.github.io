@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats & Activity
 
-[![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awahab94&show_icons=true&theme=radical)](https://github.com/awahab994)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awahab94&layout=compact&theme=radical)](https://github.com/awahab994)
+[![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awahab94&show_icons=true&theme=radical)](https://github.com/awahab94)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awahab94&layout=compact&theme=radical)](https://github.com/awahab94)
 
 [![Abdul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=awahab94&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
